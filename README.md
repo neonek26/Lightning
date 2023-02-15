@@ -1,1 +1,3 @@
-# paint-github-50b6c
+# Lightning
+
+Project ended.
